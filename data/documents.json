@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "text": "Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to produce oxygen and energy in the form of glucose. It occurs mainly in the chloroplasts of plant cells using the green pigment chlorophyll.",
+    "source": "NCERT Biology, Chapter 3, Para 2",
+    "topic": "biology"
+  },
+  {
+    "id": 2,
+    "text": "Newton's First Law: An object at rest stays at rest, and an object in motion stays in motion unless acted upon by a net external force. Newton's Second Law: Force equals mass times acceleration (F = ma). Newton's Third Law: For every action, there is an equal and opposite reaction.",
+    "source": "NCERT Physics, Chapter 5",
+    "topic": "physics"
+  },
+  {
+    "id": 3,
+    "text": "The water cycle (hydrological cycle) describes the continuous movement of water on Earth. Water evaporates from oceans and lakes, rises as water vapor, condenses into clouds, and falls back as precipitation (rain/snow). It then flows into rivers or infiltrates the ground.",
+    "source": "Earth Science Textbook, Chapter 2",
+    "topic": "earth_science"
+  },
+  {
+    "id": 4,
+    "text": "Mitosis is the process of cell division in which one parent cell divides into two genetically identical daughter cells. It has four phases: Prophase, Metaphase, Anaphase, and Telophase (PMAT). It is used for growth and repair in the body.",
+    "source": "Cell Biology, Chapter 4",
+    "topic": "biology"
+  },
+  {
+    "id": 5,
+    "text": "The Pythagorean theorem states that in a right-angled triangle, the square of the hypotenuse (c) equals the sum of squares of the other two sides: a² + b² = c². It is used extensively in geometry, trigonometry, and physics.",
+    "source": "NCERT Mathematics, Chapter 7",
+    "topic": "mathematics"
+  },
+  {
+    "id": 6,
+    "text": "Gravity is a fundamental force of attraction between any two objects with mass. On Earth, gravitational acceleration is approximately 9.8 m/s². Einstein's General Relativity describes gravity as the curvature of spacetime caused by mass.",
+    "source": "NCERT Physics, Chapter 9",
+    "topic": "physics"
+  },
+  {
+    "id": 7,
+    "text": "DNA (deoxyribonucleic acid) is the hereditary material in humans and almost all other organisms. It is organized as a double helix made of nucleotides. Each nucleotide consists of a sugar, a phosphate group, and one of four nitrogenous bases: Adenine, Thymine, Guanine, Cytosine.",
+    "source": "Molecular Biology, Chapter 1",
+    "topic": "biology"
+  },
+  {
+    "id": 8,
+    "text": "Ohm's Law states that the current through a conductor between two points is directly proportional to the voltage across them: V = IR, where V is voltage, I is current, and R is resistance. This is fundamental to all circuit analysis.",
+    "source": "NCERT Physics, Chapter 12",
+    "topic": "physics"
+  },
+  {
+    "id": 9,
+    "text": "The French Revolution (1789-1799) was a period of radical political and societal transformation in France. It began with the financial crisis and resentment toward the monarchy. Key events include the storming of the Bastille, the Declaration of the Rights of Man, and the Reign of Terror.",
+    "source": "World History, Chapter 6",
+    "topic": "history"
+  },
+  {
+    "id": 10,
+    "text": "Osmosis is the movement of water molecules through a selectively permeable membrane from a region of lower solute concentration to a region of higher solute concentration. This process is critical in plant water absorption and kidney function.",
+    "source": "NCERT Biology, Chapter 11",
+    "topic": "biology"
+  },
+  {
+    "id": 11,
+    "text": "A quadratic equation is a second-degree polynomial: ax² + bx + c = 0. Its solutions are given by the quadratic formula: x = (-b ± √(b²-4ac)) / 2a. The discriminant (b²-4ac) determines the nature of roots: positive = two real roots, zero = one real root, negative = complex roots.",
+    "source": "NCERT Mathematics, Chapter 4",
+    "topic": "mathematics"
+  },
+  {
+    "id": 12,
+    "text": "Machine learning is a subset of artificial intelligence where algorithms learn patterns from data rather than following explicit rules. Types include supervised learning (labeled data), unsupervised learning (finding patterns), and reinforcement learning (learning through rewards).",
+    "source": "Introduction to AI, Chapter 3",
+    "topic": "computer_science"
+  }
+]
